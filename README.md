@@ -1,13 +1,13 @@
 # Desafio FRONTEND
- Olá, buscando se aproximar dos problemas que encontrará no dia a dia trabalhando na HerMoney, queremos que desenvolva um simples fluxo de caixa com React.js, onde o usuário deve inserir receitas e despesas e exibir o saldo em caixa após a soma das receitas e subtração das despesas.
- O projeto deve ser publicado em um repositorio do github e compartilhado com quem lhe compartilhou esse desafio
+Olá, buscando se aproximar dos problemas que encontrará no dia a dia trabalhando na HerMoney, queremos que desenvolva um simples fluxo de caixa com React.js, onde o usuário deve inserir receitas e despesas e exibir o saldo em caixa após a soma das receitas e subtração das despesas.
+O projeto deve ser publicado em um repositório do github e compartilhado com quem lhe compartilhou esse desafio
 
 ### Identificação
-- O usuario deverar se identicar em uma tela simples inserindo seu nome e clicando em Entrar.
+- O usuário deverá se identificar em uma tela simples inserindo seu nome e clicando em Entrar.
 - O nome do usuário deve ser obrigatorio
 
 ### Lançamentos
-- Após o usuãrio tiver se indentificado com sucesso, ele deve ir para a pagina de lançamentos.
+- Após o usuário tiver se identificado com sucesso, ele deve ir para a pagina de lançamentos.
 - A tela de lançamentos deve exibir o nome do usuário
 - Na página de lançamentos o usuario deve ter a possibilidade de inserir Receitas e despesas.
 - O lançamento das Receitas e Despesas deve ser feito em um Modal onde o usuário com os campos:
